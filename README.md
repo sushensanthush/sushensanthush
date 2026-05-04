@@ -1,4 +1,6 @@
-<h1 align="center">I'm Sushen Santhush</h1>
+<p align="center">
+  <img src="whoami.png" alt="Who AM I" width="100%" />
+</p>
 <h3 align="center">Undergraduate Software Engineer | Birmingham City University, UK</h3>
 
 <p align="center">
