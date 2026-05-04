@@ -16,17 +16,17 @@ Undergraduate Software Engineering student with hands-on experience in developin
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,ts,js,go,python,php,html,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,go,python,php,html,cpp" height="35" />
 </p>
 
 ### Frameworks & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,flutter" height="35" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,postgresql,mongodb" height="35" />
 </p>
 
 ### Tools
