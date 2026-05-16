@@ -133,7 +133,7 @@ Undergraduate Software Engineering student with hands-on experience in developin
   <a href="mailto:sushensanthush02@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/sushen-santhush-78a52b281">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
   </a>
 </p>
