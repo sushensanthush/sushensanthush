@@ -42,6 +42,21 @@ Undergraduate Software Engineering student with hands-on experience in developin
 ---
 ## Recent Project Experience
 
+### Encrypter 1.0.0
+[![GitHub](https://img.shields.io/badge/GitHub-Private_Repo-181717?style=flat&logo=github)](https://github.com/sushensanthush)  
+**Type:** Security Utility / Web App  
+**Tech Stack:** JavaScript, HTML, CSS  
+
+**Military-Grade Client-Side Stealth Encryption Tool**  
+*"Your privacy is not a feature; it is a right."*
+
+*   **Overview:** Encrypter 1.0.0 is a high-security, client-side encryption utility designed for private communication and secure text protection.
+*   **Interface:** Built with a sleek iOS-inspired stealth interface, the application allows users to convert plain text into unreadable cipher text and decrypt encrypted messages using a secret passphrase.
+*   **Security:** The project follows a strict Zero-Knowledge Architecture, ensuring that all encryption and decryption processes occur entirely within the user's browser.
+*   **Privacy:** No servers. No databases. No tracking. No logs.
+  
+---
+
 ### Habito
 [![Private](https://img.shields.io/badge/GitHub-Private-6e7681?style=flat&logo=github)](https://github.com/sushensanthush/habito)
 **Type:** Productivity Platform  
