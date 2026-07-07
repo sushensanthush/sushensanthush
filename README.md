@@ -93,14 +93,6 @@ Undergraduate Software Engineering student with hands-on experience in developin
 
 ---
 
-### FocusHocus
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/sushensanthush/focushocus)  
-**Type:** Productivity Tool  
-**Description:** Screen-time and eye-care reminder system for improved focus.  
-**Tech Stack:** Python (Windows)  
-
----
-
 ### SayIt
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/sushensanthush/sayit)  
 **Type:** Mobile Application  
